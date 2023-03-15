@@ -51,7 +51,6 @@ public class Desafio {
                 .andThen(formataPreco)
                 .apply(p1)
         );
-       
         
         
         
