@@ -28,7 +28,7 @@ public class DesfioFilter2 {
         Produto p5 = new Produto(
                 "mesa", 2999.99, 0.15, true);
         
-        
+                                            
         Predicate<Produto> isDescontoMaiorTrinta =
                 produto -> produto.desconto >= 0.30;
         Predicate<Produto> isFreteGratis = 

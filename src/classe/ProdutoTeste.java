@@ -13,13 +13,13 @@ public class ProdutoTeste {
                 
                 Produto.desconto = 0.35;
 		
-		double precoFinal1 = p1.calculaDesconto();
-                System.out.printf("O preço do %s é de R$%.2f.",
-                        p1.nome, precoFinal1);
-		double precoFinal2 = p2.calculaDesconto();
-                System.out.printf("O preço do %s é de R$%.2f.",
-                        p2.nome,precoFinal2);
-		double mediaCarrinho = (precoFinal1 + precoFinal2) / 2;
-		System.out.printf("A m�dia de valores � de R$%.2f\n", mediaCarrinho);
+//		double precoFinal1 = p1.calculaDesconto();
+//                System.out.printf("O preço do %s é de R$%.2f.",
+//                        p1.nome, precoFinal1);
+//		double precoFinal2 = p2.calculaDesconto();
+//                System.out.printf("O preço do %s é de R$%.2f.",
+//                        p2.nome,precoFinal2);
+//		double mediaCarrinho = (precoFinal1 + precoFinal2) / 2;
+//		System.out.printf("A m�dia de valores � de R$%.2f\n", mediaCarrinho);
 	}
 }

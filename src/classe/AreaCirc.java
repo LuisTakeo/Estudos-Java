@@ -17,6 +17,10 @@ public class AreaCirc {
         raio = raioInicial;
     }
     
+    void area2() {
+        double raio2 = PI * Math.pow(raio, 2);
+    }
+    
     double area() {
         return PI * Math.pow(raio, 2);
     }
