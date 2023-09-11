@@ -11,7 +11,7 @@ package oo.encapsulamento.casaA;
 public class Ana {
     
     private String segredo = "...";
-    String façoDentroDeCasa = "..."; //default ou pacote
+    String facoDentroDeCasa = "..."; //default ou pacote
     protected String formaDeFalar = "...";
     public String todosSabem = "...";
     

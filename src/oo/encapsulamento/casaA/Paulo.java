@@ -14,7 +14,7 @@ public class Paulo {
     
     void testeAcessos(){
 //        System.out.println(esposa.segredo); //não consegue ver pois é privado
-        System.out.println(esposa.façoDentroDeCasa);
+        System.out.println(esposa.facoDentroDeCasa);
         System.out.println(esposa.formaDeFalar);
         System.out.println(esposa.todosSabem);
     
